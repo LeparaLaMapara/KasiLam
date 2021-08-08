@@ -1,6 +1,6 @@
 # KasiLam Projects
-## Digitization of SA townships businesses
+___________
+I'm my attempt to learn stack web development I started these project that helps townships businesses to have a digital footprints, some of the projects include:
 
-These are some of the freelancing projects I have been working on:
- > http://github.com - automatic!
+> http://github.com - automatic!
 [GitHub](http://github.com)
