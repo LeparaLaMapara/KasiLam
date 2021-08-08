@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="LogoSample_ByTailorBrands.jpeg" />
+  <img src="LogoSample_ByTailorBrands.jpeg" width="200" height="400" />
 </p>
 
 
