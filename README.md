@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="LogoSample_ByTailorBrands.jpeg" width="500" height="300" />
+  <img src="KASILAM.PNG" width="500" height="300" />
 </p>
 
 
