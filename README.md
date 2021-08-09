@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="KASILAM.PNG" width="500" height="300" />
+  <img src="Kasilam.PNG" width="500" height="400" />
 </p>
 
 
