@@ -14,3 +14,6 @@
 
 - This projects was built using HTML5, CSS3, Javascript and Jekyll
   > [Photography-Website](https://thabanglukhetho.github.io/Photography/)
+
+- This projects was built using HTML5, CSS3, Javascript
+  > [Photography-portfolio-Website](https://realthabanglukhetho.github.io/photography/)
